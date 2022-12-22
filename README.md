@@ -2,6 +2,6 @@
 
 ## Konsolen Ausgabe generieren
 
-    Einfache Ausgabe in Konsole
+    Einfache Text Ausgabe in Konsole
 
 ###### sandrosimperl.cc@gmail.com
